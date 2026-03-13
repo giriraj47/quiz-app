@@ -76,7 +76,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 -   `lib/`: Utility functions and shared logic.
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
